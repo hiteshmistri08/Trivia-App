@@ -12,7 +12,7 @@ import CoreData
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    //Shared
+    //Shared object
     static let shared = UIApplication.shared.delegate as! AppDelegate
 
 
